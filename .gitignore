@@ -1,0 +1,15 @@
+*.pyc
+*.mo
+__pycache__
+pip-selfcheck.json
+/core/admin/lib*
+/core/admin/bin
+/core/admin/include
+/docs/lib*
+/docs/bin
+/docs/include
+/docs/_build
+/.env
+/docker-compose.yml
+/.idea
+/.vscode
